@@ -6,6 +6,8 @@ List of the Labs included in this repo:
 124-[PF]-Lab - Use functions to implement a Caesar Cipher ✅ 
 126-[PF]-Lab - File handlers and modules for retrieving information about insulin ✅ 
 128-[PF]-Lab - System administration with Python ✅ 
+130-[PF]-Lab - Debugging Hello World and Caesar Cipher ✅ 
+141-[PF]-Challenge Lab: Python Scripting Exercise ✅ 
 
 
 
