@@ -1,4 +1,4 @@
-# AWS_Python_LABS_Intermedite
+# AWS_Python_LABS_Intermediate
 This repo contains the solutions for some of the AWS labs that are found in the Python module of the AWS_re/Start course, delivered and taught by DCI
 
 List of the Labs included in this repo:
